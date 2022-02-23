@@ -1,6 +1,8 @@
 # woof-CE-noarch
 noarch pet packages
 
+This is a forked version of the pet packages noarch repo that reverts back to frugalpup36
+
 ## Adding or Updating packages
 
 You don't even need to use the `git` command line app, if you have write access just go to:
